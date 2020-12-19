@@ -1,5 +1,7 @@
 # HTML5-JS-Game-CoronaWarrior
 
+The purpose was to build the game both mobile platform Android and AppStore, but the good thing is games related to coronavirus on markets are PROHIBITED. I realized after developing game while building for android, and ios:)
+
 Play the game --> http://umitunal.org/coronawarrior/game/
 
         Use Arrow key to control character
